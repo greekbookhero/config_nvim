@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/greekbookhero/Desktop/proga/stazhirovka/knp'
+let g:netrw_dirhist_2='/home/greekbookhero/Desktop/proga/stazhirovka/knp/isna-global/src/main/java/kz/sapa/isna/global/enums/global'
+let g:netrw_dirhist_1='/home/greekbookhero/Desktop/proga/stazhirovka/knp/isna-global/src/main/java/kz/sapa/isna/global/enums'
+let g:netrw_dirhist_0='/home/greekbookhero/Desktop/proga/stazhirovka/knp/isna-global/src/main/java/kz/sapa/isna/global'
+let g:netrw_dirhist_9='/home/greekbookhero/Desktop/proga/stazhirovka/knp/isna-global/src/main/java/kz/sapa/isna/global/constants'
+let g:netrw_dirhist_8='/home/greekbookhero/Desktop/proga/stazhirovka/knp/isna-global/src/main/java/kz/sapa/isna/global'
+let g:netrw_dirhist_7='/home/greekbookhero/Desktop/proga/stazhirovka/knp/isna-global/src/main/java/kz/sapa/isna'
+let g:netrw_dirhist_6='/home/greekbookhero/Desktop/proga/stazhirovka/knp/isna-global/src/main/java/kz/sapa'
+let g:netrw_dirhist_5='/home/greekbookhero/Desktop/proga/stazhirovka/knp/isna-global/src/main/java/kz'
+let g:netrw_dirhist_4='/home/greekbookhero/Desktop/proga/stazhirovka/knp/isna-global/src/main/java'
