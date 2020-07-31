@@ -31,8 +31,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
     "Somethink like file manager in terminal (use ranger)
     Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
-
-
+ 
 
 
 call plug#end()

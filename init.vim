@@ -1,5 +1,5 @@
 source $HOME/.config/nvim/vim-plug/plugins.vim
-source /home/greekbookhero/.config/nvim/autoload/plugged/iceberg.vim/colors/iceberg.vim
+source /home/greekbookhero/.config/nvim/autoload/plugged/happy_hacking.vim/colors/happy_hacking.vim
 source $HOME/.config/nvim/plug-config/coc.vim
 let g:rainbow_active = 1
 "Git
